@@ -43,14 +43,14 @@ function Resume() {
                 <div className="resume-content ">
                     <ResumeItem 
                         year={'September 2009 - 2014'} 
-                        title={'Computer Science Degree'}
-                        subTitle={'Sussex University'}
+                        title={'Elect/Elect Engineering( B.Eng)'}
+                        subTitle={'Madonna University'}
                         text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
                     />
                     <ResumeItem 
-                        year={'2015 - 2017'} 
+                        year={'2003 - 2009'} 
                         title={'A - Levels'}
-                        subTitle={'Church Hill High'}
+                        subTitle={'Hopebay College'}
                         text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
                     />
                 

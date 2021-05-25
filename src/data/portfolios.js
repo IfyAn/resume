@@ -5,34 +5,34 @@ import img3 from '../img/portImages/maya-3.jpg';
 const portfolios = [
     {
         id: 1,
-        category: 'Python',
+        category:'React & Firebase',
         image: img1,
-        link1: 'https://www.google.com',
-        link2: 'https://www.google.com',
-        title: 'How To Use Python',
-        text: 'Numper one Programming language'
+        link1: 'https://github.com/IfyAn/alaba-store',
+        link2: 'https://alaba-82118.web.app/',
+        title: 'Alaba-Store',
+        text: 'Your online market place'
     },
     {
         id: 2,
-        category: 'Python',
+        category: 'React & Firebase',
         image: img3,
-        link1: 'https://www.google.com',
-        link2: 'https://www.google.com',
-        title: 'How To Animate In Maya',
-        text: 'Number one Animation Application'
+        link1: 'https://github.com/IfyAn/WhatsApp_App',
+        link2: 'https://pensive-spence-ccdcda.netlify.app/',
+        title: 'WhatsApp Clone',
+        text: 'An Online Communication'
     },
     {
         id: 3,
-        category: 'Javascript',
+        category: 'React',
         image: img3,
-        link1: 'https://www.google.com',
-        link2: 'https://www.google.com',
-        title: 'How To Animate In Maya',
-        text: 'Number one Animation Application'
+        link1: 'https://github.com/IfyAn?tab=repositories',
+        link2: 'https://ifyan-portfolio.netlify.app/',
+        title: 'Previous Portfolio',
+        text: 'Take a look'
     },
     {
         id: 4,
-        category: 'Animation',
+        category: 'React Native with Expo',
         image: img2,
         link1: 'https://www.google.com',
         link2: 'https://www.google.com',
@@ -41,7 +41,7 @@ const portfolios = [
     },
     {
         id: 5,
-        category: 'Animation',
+        category: 'React Native with Expo',
         image: img2,
         link1: 'https://www.google.com',
         link2: 'https://www.google.com',

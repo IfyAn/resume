@@ -2,7 +2,7 @@
 import React from 'react'
 import styled from 'styled-components';
 import GitHub from '@material-ui/icons/GitHub';
-import Pinterest from '@material-ui/icons/Pinterest';
+import Http from '@material-ui/icons/Http';
 
 function Menu({menuItem}) {
     return (
@@ -21,7 +21,7 @@ function Menu({menuItem}) {
                                     </li>
                                     <li>
                                         <a href={item.link2}>
-                                            <Pinterest />
+                                            <Http />
                                         </a>
                                     </li>
                                 </ul>
