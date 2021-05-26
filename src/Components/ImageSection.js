@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components';
-import resume from '../img/resume.jpg';
+import resume from '../img/avatar.jpg';
 import PrimaryButton from './PrimaryButton';
 
 function ImageSection() {
@@ -10,7 +10,7 @@ function ImageSection() {
                 <img src={resume} alt=""/>
             </div>
             <div className="right-content">
-                <h4>I am <span>Lorem Ipsum</span></h4>
+                <h4>I am <span>Anyam Ifeanyi</span></h4>
                 <p className="paragraph">
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, natus quas vero enim 
                     praesentium delectus est id fugiat ab libero adipisci recusandae at maxime veritatis! 
@@ -27,11 +27,11 @@ function ImageSection() {
                         <p>Service</p>
                     </div>
                     <div className="info">
-                        <p>: Lorem Ipsum</p>
-                        <p>: 36</p>
-                        <p>: Spainsh </p>
-                        <p>: Spanish, French, English </p>
-                        <p>: London, United Kingdom</p>
+                        <p>: Anyam Ifeanyi</p>
+                        <p>: 100</p>
+                        <p>: Nigerian</p>
+                        <p>: English </p>
+                        <p>: Nigeria</p>
                         <p>: Freelance</p>
                     </div>
                 </div>
