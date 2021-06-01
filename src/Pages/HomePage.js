@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components';
 import FacebookIcon from '@material-ui/icons/Facebook';
 import GithubIcon from '@material-ui/icons/GitHub';
-import TwitterIcon from '@material-ui/icons/Twitter';
+import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import Particle from '../Components/Particle';
 
 function HomePage() {
@@ -14,8 +14,8 @@ function HomePage() {
             <div className="typography">
                 <h1>Hi, I'm <span>Anyam Ifeanyi</span></h1>
                 <p>
-                    I am a Programmer (Javascript Front-End developer). I am into Web (React) & Mobile App(React Native).
-                    I am passionate about programming because of I love solving Human problems.
+                    I am a Programmer (Javascript Front-End developer).  Mobile App(React Native).
+                    I want to be involved in building multiple successful products that aims at making the world a better place, while I keep growing my technical and soft skills as a software developer	.  
                 </p>
                 <div className="icons">
                     <a href="https://web.facebook.com/?_rdc=1&_rdr" className="icon i-facebook">
@@ -24,8 +24,8 @@ function HomePage() {
                     <a href="https://github.com/IfyAn?tab=repositories" className="icon i-github">
                         <GithubIcon />
                     </a>
-                    <a href="https://twitter.com/home/" className="icon i-twitter">
-                        <TwitterIcon />
+                    <a href="https://www.linkedin.com/in/anyam-ifeanyi-455189193/" className="icon i-twitter">
+                        <LinkedInIcon />
                     </a>
                 </div>
             </div>

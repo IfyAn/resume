@@ -19,22 +19,22 @@ function Resume() {
                 </div>
                 <div className="resume-content">
                     <ResumeItem 
-                        year={'February 2016 - December 2019'} 
-                        title={'Intern (Front-End Developer)'}
+                        year={'February 2016 - July 2016'} 
+                        title={'Web Developer'}
                         subTitle={'Rizen Bureau LTD'}
-                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
+                        text={'Rizen Bureau LTd is a currency exhange company, situated at the commercial capital(Lagos) of Nigeria. I work mainly on maintenance on the front-end of the company website as to improved user experience'} 
                     />
                     <ResumeItem 
-                        year={'February 2020 - December 2020'} 
-                        title={'Front-End Developer'}
+                        year={'February 2020 -December 2020'} 
+                        title={'Mobile Developer'}
                         subTitle={'Efficion Consulting LTD'}
-                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
+                        text={"Efficion Consulting LTD company is Start-Up that deals on Consultation, Building, Development of website and mobile apps for companies and indivituals. I am my team (front-end) were developing a mobile app for emergency usage. I was actively involed in the project though I left due to personal reasons. The project isn't yet LIVE "} 
                     />
                     <ResumeItem 
-                        year={'January 2021 - P'} 
-                        title={'Front-End Developer'}
-                        subTitle={'T-Fair Engineering '}
-                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
+                        year={'January 2021 - Present'} 
+                        title={'Mobile Developer'}
+                        subTitle={'T-Fair Engineering LTd'}
+                        text={"Is a Start-up firm that Build & Develop Mobile application for end Users. It's a remote job. Currently working the front-end area of a transportation app (inter-state & intra-state) for a firm.    "} 
                     />
                 </div>
                 <div className="small-title u-small-title-margin">
@@ -45,15 +45,7 @@ function Resume() {
                         year={'September 2009 - 2014'} 
                         title={'Elect/Elect Engineering( B.Eng)'}
                         subTitle={'Madonna University'}
-                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
                     />
-                    <ResumeItem 
-                        year={'2003 - 2009'} 
-                        title={'A - Levels'}
-                        subTitle={'Hopebay College'}
-                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
-                    />
-                
                 </div>
             </InnerLayout>
         </ResumeStyled>    

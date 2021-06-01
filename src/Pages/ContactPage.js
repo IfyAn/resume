@@ -6,22 +6,24 @@ import PrimaryButton from '../Components/PrimaryButton';
 import PhoneIcon from '@material-ui/icons/Phone';
 import EmailIcon from '@material-ui/icons/Email';
 import LocationOnIcon from '@material-ui/icons/LocationOn';
+import EmojiEmotions from '@material-ui/icons/EmojiEmotions';
 import ContactItem from '../Components/ContactItem';
 
 function ContactPage() {
     const phone = <PhoneIcon />
     const email = <EmailIcon />
     const location = <LocationOnIcon />
+    const hobby = <EmojiEmotions />
     return (
         <MainLayout>
             <Title title={'Contact'} span={'Contact'} />
             <ContactPageStyled >
             <InnerLayout className={'contact-section'}>
-                <div className="left-content">
-                    <div className="contact-title">
+                {/* <div className="left-content"> */}
+                    {/* <div className="contact-title">
                         <h4>Get In Touch</h4>
-                    </div>
-                    <form  className="form">
+                    </div> */}
+                    {/* <form  className="form">
                         <div className="form-field">
                             <label htmlFor="name"  >Enter your name*</label>
                             <input type="text" id="name" />
@@ -41,12 +43,13 @@ function ContactPage() {
                         <div className="form-field f-button">
                             <PrimaryButton title={'Send Email'} />
                         </div>
-                    </form>
-                </div>
+                    </form> */}
+                {/* </div> */}
                 <div className="right-content">
-                    <ContactItem title={'Phone'} icon={phone} cont1={'+2349069094011'} cont2={'08154925642'} />
+                    <ContactItem title={'Phone'} icon={phone} cont1={'+2349069094011, 08154925642'} cont2={''} />
+                    <ContactItem title={'Hobby'} icon={hobby} cont1={'Travelling, Coding'} cont2={'Playing Game'} />
                     <ContactItem title={'Email'} icon={email} cont1={'chukwuanyan@gmail.com'}  />
-                    <ContactItem title={'Address'} icon={location} cont1={'Ojo, Lagos'} cont2={'United Kingdom'} />
+                    <ContactItem title={'Address'} icon={location} cont1={'Ojo, Lagos'}  />
                     
                 </div>
             </InnerLayout>
