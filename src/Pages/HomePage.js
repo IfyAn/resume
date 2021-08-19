@@ -14,7 +14,7 @@ function HomePage() {
             <div className="typography">
                 <h1>Hi, I'm <span>Anyam Ifeanyi</span></h1>
                 <p>
-                    I am a Programmer (Javascript Front-End developer).  Mobile App(React Native).
+                    I am a Programmer (Javascript Full-Stack developer).  Mobile App(React Native).
                     I want to be involved in building multiple successful products that aims at making the world a better place, while I keep growing my technical and soft skills as a software developer	.  
                 </p>
                 <div className="icons">

@@ -1,6 +1,7 @@
 import img1 from '../img/portImages/firebase.png';
 import img2 from '../img/portImages/expo.jpg';
 import img3 from '../img/portImages/react.jpg';
+import img4 from '../img/portImages/logo.jpg';
 
 const portfolios = [
     // {
@@ -12,15 +13,15 @@ const portfolios = [
     //     title: 'Alaba-Store',
     //     text: 'Your online market place'
     // },
-    // {
-    //     id: 2,
-    //     category: 'React & Firebase',
-    //     image: img3,
-    //     link1: 'https://github.com/IfyAn/WhatsApp_App',
-    //     link2: 'https://pensive-spence-ccdcda.netlify.app/',
-    //     title: 'WhatsApp Clone',
-    //     text: 'An Online Communication'
-    // },
+    {
+        id: 2,
+        category: 'React Native & Firebase',
+        image: img4,
+        link1: 'https://github.com/IfyAn/Sample-Travell',
+        link2: 'https://drive.google.com/uc?id=1rX-6_fHJ1PwwfyrQIm2XzkvrUXn-YiZP&xport=download',
+        title: 'Sample Travell App June 2021- August 2021',
+        text: 'Sample Travell app=Allow travellers to share their journey with the world'
+    },
     // {
     //     id: 3,
     //     category: 'React',

@@ -13,33 +13,38 @@ function Skills() {
                     <div className="skills">
                         <ProgressBar 
                             title={'HTML5'}
-                            width={'70%'}
-                            text={'70%'}
+                            // width={'70%'}
+                            // text={'70%'}
                         />
                         <ProgressBar 
                             title={'CSS3'}
-                            width={'70%'}
-                            text={'70%'}
+                            // width={'70%'}
+                            // text={'70%'}
                         />
                         <ProgressBar 
                             title={'JAVASCRIPT'}
-                            width={'65%'}
-                            text={'65%'}
+                            // width={'65%'}
+                            // text={'65%'}
                         />
                         <ProgressBar 
                             title={'GraphQL'}
-                            width={'50%'}
-                            text={'50%'}
+                            // width={'50%'}
+                            // text={'50%'}
                         />
                         <ProgressBar 
                             title={'React JS'}
-                            width={'75%'}
-                            text={'75%'}
+                            // width={'75%'}
+                            // text={'75%'}
                         />
                         <ProgressBar 
                             title={'React Native'}
-                            width={'75%'}
-                            text={'75%'}
+                            // width={'75%'}
+                            // text={'75%'}
+                        />
+                        <ProgressBar 
+                            title={'Firebase'}
+                            // width={'75%'}
+                            // text={'75%'}
                         />
                     </div>
                 </InnerLayout>
