@@ -32,9 +32,9 @@ function Resume() {
                     />
                     <ResumeItem 
                         year={'January 2021 - Present'} 
-                        title={'Mobile Developer'}
-                        subTitle={'T-Fair Engineering LTd'}
-                        text={"Is a Start-up firm that Build & Develop Mobile application for end Users. It's a remote job. Currently working the front-end area of a transportation app (inter-state & intra-state) for a firm.    "} 
+                        title={'Web Developer'}
+                        subTitle={'T-Fare Engineering LTd'}
+                        text={"Is a Start-up firm that Build & Develop Website & Mobile application for end Users. It's a remote job. Currently working the front-end area of a transportation app (inter-state & intra-state) for a firm.    "} 
                     />
                 </div>
                 <div className="small-title u-small-title-margin">

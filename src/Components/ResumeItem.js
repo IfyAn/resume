@@ -5,7 +5,10 @@ function ResumeItem({year, title, subTitle, text}) {
     return (
         <ResumeItemStyled>
             <div className="left-content">
-                <p>{year}</p>
+                <div>
+                  <p>{year}</p>
+                </div>
+                
             </div>
             <div className="right-content">
                 <h5>{title}</h5>
@@ -29,7 +32,7 @@ const ResumeItemStyled = styled.div`
     .left-content{
         width: 50%;
         padding-left: 20px;
-        position: relative;
+        position: absolute;
         &::before{
             content: "";
             position: absolute;
@@ -47,6 +50,7 @@ const ResumeItemStyled = styled.div`
     }
     .right-content{
         padding-left: 5rem;
+        padding-top: 3rem;
         position: relative;
         &::before{
             content: "";
@@ -55,7 +59,7 @@ const ResumeItemStyled = styled.div`
             top: 15px;
             height: 2px;
             width: 3rem;
-            background-color: var(--border-color);
+            //background-color: var(--border-color);
         }
         h5{
             color: var(--primary-color);
