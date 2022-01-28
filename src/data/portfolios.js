@@ -1,4 +1,4 @@
-import img1 from '../img/portImages/Discord.png';
+import img1 from '../img/portImages/Ohyeah.png';
 import img2 from '../img/portImages/expo.jpg';
 import img3 from '../img/portImages/Starbucks.jpg';
 import img4 from '../img/portImages/logo.jpg';
@@ -11,8 +11,8 @@ const portfolios = [
         image: img1,
         link1: 'https://github.com/IfyAn/Discord',
         link2: 'https://twit-social.web.app/',
-        title: 'Discord',
-        text: 'Your Place to talk'
+        title: 'Oh-Yeah',
+        text: 'Talk to the World'
     },
     {
         id: 2,

@@ -15,7 +15,7 @@ function HomePage() {
                 <h1>Hi, I'm <span>Anyam Ifeanyi</span></h1>
                 <p>
                     I am a Programmer (Javascript Full-Stack developer).  Web(React) & Mobile App(React Native).
-                    I want to be involved in building multiple successful products that aims at making the world a better place, while I keep growing my technical and soft skills as a software developer	.  
+                    I want to be involved in building multiple successful products that aims at making the world a better place, while I keep growing my technical and soft skills as a software developer.  
                 </p>
                 <div className="icons">
                     <a href="https://web.facebook.com/?_rdc=1&_rdr" className="icon i-facebook">
