@@ -3,6 +3,7 @@ import img2 from '../img/portImages/expo.jpg';
 import img3 from '../img/portImages/Starbucks.jpg';
 import img4 from '../img/portImages/logo.jpg';
 import img5 from '../img/portImages/Uber.png';
+import img6 from '../img/portImages/coffee.jpg';
 
 const portfolios = [
     {
@@ -28,7 +29,7 @@ const portfolios = [
         category: 'React',
         image: img3,
         link1: 'https://github.com/IfyAn/starbucks-clone',
-        link2: 'https://people-drink-4a53c.web.app/',
+        link2: 'https://plant-app-a822f.web.app/',
         title: 'Starbucks',
         text: 'Feel Referesh with Starbucks Coffee For the Day Ahead'
     },
@@ -52,12 +53,12 @@ const portfolios = [
     },
     {
         id: 6,
-        category: 'React Native',
-        image: img2,
-        link1: 'https://github.com/IfyAn/obim',
-        link2: 'https://drive.google.com/uc?id=1w7TBZqZC5XYLZQ-kR0lIf7heasuxlQJL&export=download',
-        title: 'A Mockup Dating-App  March 2020- May 2020',
-        text: 'Find your Match',
+        category: 'React',
+        image: img6,
+        link1: 'https://github.com/IfyAn/people-drink',
+        link2: 'https://people-drink-4a53c.web.app/',
+        title: 'Peole-Drinks',
+        text: 'Your No1 stop for Coffees ',
     }
 ]
 
